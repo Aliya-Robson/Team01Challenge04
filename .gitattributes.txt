@@ -1,0 +1,21 @@
+# Auto normalize line endings
+* text=auto
+
+# Unity-specific file types that MUST use LF
+*.meta text eol=lf
+*.unity text eol=lf
+*.prefab text eol=lf
+*.shader text eol=lf
+*.anim text eol=lf
+*.asset text eol=lf
+
+# Scripts
+*.cs text eol=lf
+
+# Ensure images/binaries are never changed
+*.png binary
+*.jpg binary
+*.fbx binary
+*.mp4 binary
+*.dll binary
+*.exe binary
