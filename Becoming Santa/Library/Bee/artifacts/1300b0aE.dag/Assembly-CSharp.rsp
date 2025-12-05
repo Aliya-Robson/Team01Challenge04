@@ -359,7 +359,9 @@
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.44f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.44f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Christmas_Log_Village/DemoScene/UvScrollingAnimation.cs"
+"Assets/Scripts/BootTrigger.cs"
 "Assets/Scripts/JingleBells.cs"
+"Assets/Scripts/SceneFadeController.cs"
 -langversion:9.0
 /deterministic
 /optimize+
