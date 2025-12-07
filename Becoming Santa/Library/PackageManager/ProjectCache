@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639006716084260200
-    m_Hash: 892535626
+      ticks: 639006760876087560
+    m_Hash: 627566882
   m_LockFileStatus:
     m_FilePath: C:/Users/myang/Documents/GitHub/Team01Challenge04/Becoming Santa/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639006716084460549
-    m_Hash: 2317390942
+      ticks: 639006760876087560
+    m_Hash: 1411339973
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
