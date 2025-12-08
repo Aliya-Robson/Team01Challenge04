@@ -7,6 +7,7 @@ public class CandleTarget : MonoBehaviour
     public GameObject flameEffect; // flame effect
     public bool isLit = false;
     public Light candleLight; // glow effect
+    public AudioSource candleSound; // candle sound effect
 
     // Flicker settings
     public float baseIntensity = 2f;
@@ -30,6 +31,10 @@ public class CandleTarget : MonoBehaviour
         }
 
         // Add sound here
+        if (candleSound != null)
+        {
+            candleSound.Play(); // plays sound
+        }
     }
     // Start is called before the first frame update
     void Start()

@@ -8,6 +8,7 @@ public class CandleLighter : MonoBehaviour
     public float lightRange = 0.75f; // Distance to light other candles
     public LayerMask candleLayer; // Layer for candles waiting
     public Light candleLight; // point light for glow/flicker
+    public AudioSource candleSound; // candle sound effect
     private XRGrabInteractable grabInteractable;
     private bool isHeld = false;
 
@@ -31,7 +32,10 @@ public class CandleLighter : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        if (candleSound != null)
+        {
+            candleSound.Play(); // plays sound
+        }
     }
 
     // Update is called once per frame
