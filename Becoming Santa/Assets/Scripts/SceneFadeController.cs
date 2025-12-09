@@ -6,7 +6,7 @@ using System.Collections;
 public class SceneFadeController : MonoBehaviour
 {
     public CanvasGroup fadeGroup;
-    public float fadeDuration = 15f; // how long it takes to turn white
+    public float fadeDuration = 1.5f; // how long it takes to turn white
 
     public void FadeToScene(string sceneName)
     {
