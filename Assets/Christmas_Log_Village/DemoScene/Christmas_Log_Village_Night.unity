@@ -903,7 +903,7 @@ GameObject:
   - component: {fileID: 96970846}
   - component: {fileID: 96970847}
   m_Layer: 0
-  m_Name: P1 (11)
+  m_Name: Coal11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -917,7 +917,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 96970841}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.0077819824}
+  m_LocalPosition: {x: 0, y: 0, z: -0.096}
   m_LocalScale: {x: 0.35601914, y: 0.356754, z: 0.24039696}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1989,7 +1989,7 @@ GameObject:
   - component: {fileID: 154405387}
   - component: {fileID: 154405388}
   m_Layer: 0
-  m_Name: P1 (6)
+  m_Name: Coal6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2003,7 +2003,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 154405382}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.0077819824}
+  m_LocalPosition: {x: 0, y: 0, z: -0.096}
   m_LocalScale: {x: 0.3560191, y: 0.356754, z: 0.24039689}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -5277,7 +5277,7 @@ GameObject:
   - component: {fileID: 423624093}
   - component: {fileID: 423624094}
   m_Layer: 0
-  m_Name: P1
+  m_Name: Coal1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5291,7 +5291,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 423624088}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0.096}
   m_LocalScale: {x: 0.35601902, y: 0.356754, z: 0.24039686}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -6354,7 +6354,7 @@ GameObject:
   - component: {fileID: 461306982}
   - component: {fileID: 461306983}
   m_Layer: 0
-  m_Name: P1 (5)
+  m_Name: Coal5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6368,7 +6368,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 461306977}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.0077819824}
+  m_LocalPosition: {x: 0, y: 0, z: -0.096}
   m_LocalScale: {x: 0.3557345, y: 0.356754, z: 0.24039687}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -8643,7 +8643,7 @@ GameObject:
   - component: {fileID: 635351894}
   - component: {fileID: 635351895}
   m_Layer: 0
-  m_Name: P1 (7)
+  m_Name: Coal7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8657,7 +8657,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 635351889}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.0077819824}
+  m_LocalPosition: {x: 0, y: 0, z: -0.096}
   m_LocalScale: {x: 0.35601914, y: 0.356754, z: 0.2403969}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -13316,7 +13316,7 @@ GameObject:
   - component: {fileID: 981156443}
   - component: {fileID: 981156444}
   m_Layer: 0
-  m_Name: P1 (10)
+  m_Name: Coal10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13330,7 +13330,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 981156438}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.0077819824}
+  m_LocalPosition: {x: 0, y: 0, z: -0.096}
   m_LocalScale: {x: 0.35601914, y: 0.356754, z: 0.24039695}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -13901,7 +13901,7 @@ GameObject:
   - component: {fileID: 1034737274}
   - component: {fileID: 1034737275}
   m_Layer: 0
-  m_Name: P1 (3)
+  m_Name: Coal3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13915,7 +13915,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1034737269}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.0077819824}
+  m_LocalPosition: {x: 0, y: 0, z: -0.096}
   m_LocalScale: {x: 0.35601908, y: 0.356754, z: 0.24039687}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -18312,7 +18312,7 @@ GameObject:
   - component: {fileID: 1316732749}
   - component: {fileID: 1316732750}
   m_Layer: 0
-  m_Name: P1 (4)
+  m_Name: Coal4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18326,7 +18326,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1316732744}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.0077819824}
+  m_LocalPosition: {x: 0, y: 0, z: -0.096}
   m_LocalScale: {x: 0.35601908, y: 0.356754, z: 0.24039689}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -22680,7 +22680,7 @@ GameObject:
   - component: {fileID: 1626520942}
   - component: {fileID: 1626520943}
   m_Layer: 0
-  m_Name: P1 (9)
+  m_Name: Coal9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22694,7 +22694,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1626520937}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.0077819824}
+  m_LocalPosition: {x: 0, y: 0, z: -0.096}
   m_LocalScale: {x: 0.35601914, y: 0.356754, z: 0.24039693}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -22817,6 +22817,7 @@ GameObject:
   - component: {fileID: 1631798272}
   - component: {fileID: 1631798271}
   - component: {fileID: 1631798270}
+  - component: {fileID: 1631798273}
   m_Layer: 0
   m_Name: NaughtyList
   m_TagString: Untagged
@@ -22857,7 +22858,7 @@ MeshCollider:
   m_LayerOverridePriority: 0
   m_IsTrigger: 0
   m_ProvidesContacts: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
@@ -22912,6 +22913,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1631798268}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!65 &1631798273
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1631798268}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1.2, y: 1.6, z: 0.02}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1633329859
 GameObject:
   m_ObjectHideFlags: 0
@@ -27204,7 +27226,7 @@ GameObject:
   - component: {fileID: 1925518806}
   - component: {fileID: 1925518807}
   m_Layer: 0
-  m_Name: P1 (8)
+  m_Name: Coal8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27218,7 +27240,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1925518801}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.0077819824}
+  m_LocalPosition: {x: 0, y: 0, z: -0.096}
   m_LocalScale: {x: 0.35601914, y: 0.356754, z: 0.24039692}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -30072,7 +30094,7 @@ GameObject:
   - component: {fileID: 2117375425}
   - component: {fileID: 2117375426}
   m_Layer: 0
-  m_Name: P1 (2)
+  m_Name: Coal2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30086,7 +30108,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2117375420}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.0077819824}
+  m_LocalPosition: {x: 0, y: 0, z: -0.096}
   m_LocalScale: {x: 0.35601908, y: 0.356754, z: 0.24039687}
   m_ConstrainProportionsScale: 0
   m_Children:
