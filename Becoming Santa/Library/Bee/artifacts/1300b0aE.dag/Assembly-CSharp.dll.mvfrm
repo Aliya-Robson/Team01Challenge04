@@ -1,25 +1,3 @@
-ActionBasedControllerEditor
-UnityEngine
-XR
-Interaction
-Toolkit
-XRBaseControllerEditor
-XRControllerEditor
-XRControllerRecorderEditor
-XRControllerRecordingEditor
-XRRigEditor
-PackageManagerEditorHelper
-Utilities
-InputHelpers
-
-AttachPointVelocityTracker
-UnityEngine
-XR
-Interaction
-Toolkit
-IAttachPointVelocityProvider
-AttachPointVelocityProviderExtensions
-IAttachPointVelocityTracker
 AssetModificationProcessor
 
 Sysroot
