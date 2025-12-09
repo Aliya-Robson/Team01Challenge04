@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Christmas_Log_Village/DemoScene/StartScene.unity
     guid: c7032a04a449b450593071f3bf4ba386
   - enabled: 1
