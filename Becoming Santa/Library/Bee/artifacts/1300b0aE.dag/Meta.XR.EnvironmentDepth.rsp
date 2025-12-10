@@ -121,6 +121,7 @@
 -define:ENABLE_TIMELINE
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
+-define:XR_OCULUS_4_2_0_OR_NEWER
 -define:USING_XR_MANAGEMENT
 -define:OVR_UNITY_PACKAGE_MANAGER
 -define:CSHARP_7_OR_LATER
@@ -348,6 +349,7 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.ARSubsystems.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.Management.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.MetaOpenXR.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.Oculus.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.OpenXR.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"

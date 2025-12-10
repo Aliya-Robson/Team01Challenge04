@@ -455,6 +455,8 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.Management.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.MetaOpenXR.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.MetaOpenXR.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.Oculus.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.Oculus.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.OpenXR.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.OpenXR.Features.ConformanceAutomation.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.OpenXR.Features.MetaQuestSupport.Editor.ref.dll"
